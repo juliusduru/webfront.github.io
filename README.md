@@ -1,5 +1,3 @@
-# webfront.github.io
-Website on Data Science
 <!DOCTYPE HTML>
 <!--
 	Minimaxing by HTML5 UP
